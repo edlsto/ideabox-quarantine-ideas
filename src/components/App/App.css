@@ -1,0 +1,17 @@
+.title {
+  font-size: 2em;
+  text-align: center;
+}
+
+main {
+  margin: 3em;
+}
+
+body {
+  font-size: 1em;
+  font-family: "Merriweather", serif;
+}
+
+span {
+  margin-left: 0.2em;
+}
